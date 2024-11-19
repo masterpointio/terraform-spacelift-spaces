@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0 (2024-11-19)
+
+
+### Features
+
+* initial version ([ea27332](https://github.com/masterpointio/terraform-spacelift-spaces/commit/ea27332657158030195bda69f9858e60ae4d206a))
+
 ## [0.2.0](https://github.com/masterpointio/terraform-module-template/compare/v0.1.1...v0.2.0) (2024-11-14)
 
 
